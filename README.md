@@ -8,7 +8,7 @@ For previous licensing history, see [LICENSE.previous.md](https://github.com/YJ0
 	<img src="https://github.com/YJ0528/minibot/blob/main/visual_demos/robot_visual.jpg" height="350">
 	<br>
 	<h2> Differential Drive Robot using ROS 2 Jazzy Jalisco </h2>
-	<a href="https://opensource.org/licenses/Apache-2.0">
+	<a href="https://github.com/YJ0528/minibot/blob/main/LICENSE">
 		<img src="https://img.shields.io/static/v1.svg?label=License&message=MIT&color=blue&style=flat-square" height="20">
   	</a>
 	<a href="https://ubuntu.com/tutorials/install-ubuntu-desktop#1-overview">
